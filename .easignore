@@ -41,9 +41,6 @@ yarn-error.*
 # Cloud Function Push Token
 expo-cloud-function-push-token.txt
 
-# Google services config
-google-services.json
-
 # Local build configurations
 /ios
 /android
